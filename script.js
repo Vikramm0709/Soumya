@@ -9,7 +9,7 @@ yesBtn.addEventListener("click", () => {
   gif.src =
     "https://i.gifer.com/Vg6.gif";
  setTimeout(() => {
-    window.location.href = "file:///C:/09.02.2024/gifts/gifts.html";
+    window.location.href = "https://soumya-day.netlify.app/";
   }, 8000); // 8000 milliseconds = 8 seconds
 });
 
